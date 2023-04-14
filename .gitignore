@@ -1,0 +1,7 @@
+/.idea/
+/httpClient5/target/
+/mmarque/target/
+/restAssured/target/
+/selenide/target/
+/selenide/build/
+
